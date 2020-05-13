@@ -1,5 +1,4 @@
 # Analysis-of-Approximation-Methods
-MATH 273 Final Project 
 
 This paper investigates three methods for approximating the solutions of first-order differential equations: Euler’s
 method, Improved Euler’s method, and the Runge-Kutta method. The approximations are accomplished using the
